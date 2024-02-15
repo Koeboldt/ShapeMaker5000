@@ -20,6 +20,10 @@ Download the required files from the GitHub repository.
 ## Usage Information <a name="Usage"></a>
 Run either through console commands, or open in a node compatible code editor and enter node index.js into the terminal. Then answer each of the prompts, and then an svg file will be created in the output folder for you to use.
 
+
+https://github.com/Koeboldt/ShapeMaker5000/assets/142840132/4972508e-c68a-4f60-8ff8-c40dd1186436
+
+
 ## Contribution Instructions <a name="Contribution"></a>
 This is a solo project, so if you'd like to contribute please ask.
 
