@@ -20,7 +20,7 @@ const questions = [{
 ];
 
 function writeToFile(fileName, answers) {
-    fs.writeFile(`./creation/${fileName}` ,generateShape(answers), (err)=> console.log(err)); console.log(answers)
+    fs.writeFile(`./output/${fileName}` ,generateShape(answers), (err)=> console.log(err)); console.log(answers)
 }
 
 function init() {
