@@ -18,7 +18,7 @@ A simple program made to utelize classes to generate SVG to make simple badges f
 Download the required files from the GitHub repository.
 
 ## Usage Information <a name="Usage"></a>
-Run either through console commands, or open in a node compatible code editor and enter node index.js into the terminal.
+Run either through console commands, or open in a node compatible code editor and enter node index.js into the terminal. Then answer each of the prompts, and then an svg file will be created in the output folder for you to use.
 
 ## Contribution Instructions <a name="Contribution"></a>
 This is a solo project, so if you'd like to contribute please ask.
