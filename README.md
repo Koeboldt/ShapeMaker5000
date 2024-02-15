@@ -12,16 +12,16 @@
 6. [Questions](#Questions?????!)
 
 ## Description <a name="Description"></a>
-A simple program designed to use inquirer to build a README.
+A simple program made to utelize classes to generate SVG to make simple badges for acronyms.
 
-## <a name="Installation">Installation</a>
-Download the required files from the repository.
+## Installation <a name="Installation"></a>
+Download the required files from the GitHub repository.
 
-## Usage <a name="Usage">Usage</a>
-First open the files in any node compatible code editor, then enter node index.js and answer the prompts.
+## Usage Information <a name="Usage"></a>
+Run either through console commands, or open in a node compatible code editor and enter node index.js into the terminal.
 
 ## Contribution Instructions <a name="Contribution"></a>
-N/A
+This is a solo project, so if you'd like to contribute please ask.
 
 ### Contributors<a name="contributors"></a>
 N/A
